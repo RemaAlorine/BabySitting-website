@@ -17,7 +17,7 @@
 
 
 
-<h2>Functionalities:</h2>
+<h2>Functionalities: </h2>
 <h3>Parent</h3>
 <p>• Sign up as a parent (First name, Last name, email, password, photo (optional), city, 
 location)</p>
